@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+uploads/
+*.zip
+*.mp3
+*.jpg
