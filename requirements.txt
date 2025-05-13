@@ -5,3 +5,5 @@ torch==2.0.1
 gTTS==2.3.2
 Pillow==9.5.0
 numpy<2
+Flask
+gunicorn
